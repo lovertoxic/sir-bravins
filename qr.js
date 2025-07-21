@@ -15,7 +15,7 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Hunter xmd Bot*
+*💪 Empowering Your Experience with sir bravin Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
 🔗https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
@@ -25,9 +25,9 @@ const MESSAGE = process.env.MESSAGE ||  `
 https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
+🪄 join group https://chat.whatsapp.com/BXNPh0ZN6zoGNRJDghhIac?mode=r_t
 
-*🥀 Powered by Hunter xmd 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
