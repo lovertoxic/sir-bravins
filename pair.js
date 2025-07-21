@@ -133,16 +133,16 @@ ______________________________
 *💪 Empowering Your Experience with our Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Obedweb/Hunter-Xmd1
+🔗 https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
 https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://youtube.com/@obetech12?si=urZpt-b7F8StY5TV
+🪄 join the group https://chat.whatsapp.com/BXNPh0ZN6zoGNRJDghhIac?mode=r_t
 
-*🥀 Powered by Hunter-xmd 🥀*
+*🥀 Powered by sir bravin 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
